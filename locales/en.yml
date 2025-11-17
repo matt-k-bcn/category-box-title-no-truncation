@@ -1,0 +1,6 @@
+en:
+  theme_metadata:
+    description: Small theme component to avoid truncation of category title in category
+      boxes.
+    settings:
+      example_setting: A description of a setting.
